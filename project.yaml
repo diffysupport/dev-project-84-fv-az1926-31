@@ -1,5 +1,5 @@
 basic:
-    name: 'Keeling Group'
+    name: 'Schowalter Ltd'
     environments:
         production: 'https://google.com'
         staging: 'https://google.com'
